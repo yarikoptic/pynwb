@@ -67,3 +67,10 @@ tests/coverage/htmlcov
 
 #mypy
 .mypy_cache/
+
+# ASV benchmarks artifacts
+benchmarks/results
+benchmarks/html
+benchmarks/env
+benchmarks/pynwb
+
